@@ -9,3 +9,8 @@
 ### Styled Components
 
 ### Linting
+
+
+#### TODO für Samstag:
+##### Projektideen sammeln
+##### Überleben
