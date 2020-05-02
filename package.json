@@ -1,0 +1,30 @@
+{
+  "name": "hackbois",
+  "version": "1.0.0",
+  "description": "Trying out stuff. Hackbois Leet 1337. soos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttrude/hackbois.git"
+  },
+  "keywords": [
+    "hackbois",
+    "npm",
+    "webpack",
+    "matthias...saas",
+    "riiiir"
+  ],
+  "author": "Die Hackbois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttrude/hackbois/issues"
+  },
+  "homepage": "https://github.com/ttrude/hackbois#readme",
+  "devDependencies": {
+    "webpack-cli": "3.3.11"
+  },
+  "dependencies": {}
+}

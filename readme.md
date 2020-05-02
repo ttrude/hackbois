@@ -1,4 +1,8 @@
-hekboyes
-hackbois2
-karl kann jetzt auch pushen
-love it
+# Setup
+
+##  Installation
+
+```
+npm init
+npm install webpack webpack-cli --save-dev
+```
