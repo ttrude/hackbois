@@ -4,7 +4,7 @@
   "description": "Trying out stuff. Hackbois Leet 1337. soos",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
