@@ -28,6 +28,7 @@
     "webpack-cli": "3.3.11"
   },
   "dependencies": {
-    "electron": "8.2.5"
+    "electron": "8.2.5",
+    "react": "^16.13.1"
   }
 }
