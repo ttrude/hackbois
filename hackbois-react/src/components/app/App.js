@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Textbox from '../textbox/Textbox';
+import Savebutton from '../savebutton/Savebutton';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         Listen Sie hier alle Gründe auf, warum Gabriel und Karl auch ohne Matthias und Tobi zurecht kommen:
         </div>
         <Textbox />
+          <Savebutton />
       </header>
     </div>
   );
