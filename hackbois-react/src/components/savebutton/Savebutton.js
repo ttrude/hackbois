@@ -11,7 +11,7 @@ class Savebutton extends React.Component {
 
     render() {
         return (
-                <button onclick={this.handleClick}>Click me</button> 
+                <button onClick={this.handleClick}>Click me</button> 
         );
     }
 }
