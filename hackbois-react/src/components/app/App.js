@@ -13,7 +13,21 @@ function App() {
         Listen Sie hier alle Gründe auf, warum Gabriel und Karl auch ohne Matthias und Tobi zurecht kommen:
         </div>
         <Textbox />
-          <Savebutton />
+        <Savebutton />
+        <h2>
+          Listen Sie hier alle Gründe auf, warum Gabriel und Karl nicht ohne Matthias und Tobi zurecht kommen:
+        </h2>
+        <Textbox/>
+        <Savebutton/>
+        <ul>
+          <li>Random EINRÜCKUNGEN VON CODEZEILEN WAS IST HIER LOS</li>
+          <li>Man kann das Projekt nach pull nicht mehr builden</li>
+          <li>
+            Die komplette App ist im HTML header Element UND DER TEXT IST IN EINEM DIV =>
+            STRUKTURELLE SEMANTIK NICHT VORHANDEN ARRRRRRRRRRRRGGGGGGGGHHHHHHHH
+          </li>
+          <li>Matthias und Tobi bereichern jeden Call mit ihrer Persönlichkeit und unendlichen GEDULD AMK</li>
+        </ul>
       </header>
     </div>
   );
