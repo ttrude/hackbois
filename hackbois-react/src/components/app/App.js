@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Textbox from '../textbox/Textbox';
 import Savebutton from '../savebutton/Savebutton';
