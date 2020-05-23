@@ -4,7 +4,7 @@ import './index.css';
 import App from './components/app/App';
 import * as serviceWorker from './serviceWorker';
 
-// const electron = window.require("electron")
+const electron = window.require("electron")
 
 ReactDOM.render(
   <React.StrictMode>
