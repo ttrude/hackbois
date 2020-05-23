@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <div>
         Listen Sie hier alle Gründe auf, warum Gabriel und Karl auch ohne Matthias und Tobi zurecht kommen:
         </div>
