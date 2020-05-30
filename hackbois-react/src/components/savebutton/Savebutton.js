@@ -1,4 +1,7 @@
 import React from 'react';
+
+var electronFs = window.require('fs');
+
 class Savebutton extends React.Component {
   constructor(props) {
     super(props);
@@ -7,6 +10,7 @@ class Savebutton extends React.Component {
 
   handleClick() {
       console.log("button kommt an.");
+      electronFs.writeFileSync("alksdnfajagierigsoos.txt", "asdf", "utf8");
   }
 
     render() {

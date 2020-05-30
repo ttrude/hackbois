@@ -11,7 +11,7 @@ function createWindow () {
     })
 
     // und lade die index.html der App.
-    win.loadURL('http://localhost:9000/')
+    win.loadURL("file:///Users/karlsobisch/Development/private/hackbois/dist/index.html")
 }
 
 app.whenReady().then(createWindow)

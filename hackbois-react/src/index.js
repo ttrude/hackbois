@@ -6,6 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 const electron = window.require("electron")
 
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
