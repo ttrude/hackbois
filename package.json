@@ -30,7 +30,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "electron": "8.2.5"
+    "electron": "8.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
